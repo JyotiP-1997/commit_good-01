@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Commit Good</string>
+    <string name="user">USERNAME</string>
+    <string name="pwd">PASSWORD</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="error_empty_user_id">Please enter your Email Address</string>
+    <string name="error_empty_current_pwd">Please enter your Current Password</string>
+    <string name="error_empty_new_pwd">Please enter your New Password</string>
+    <string name="error_empty_cfm_pwd">Please Confirm Password </string>
+    <string name="error_empty_msg">Please Enter your Message</string>
+    <string name="error_empty_user_name">Please enter your User Name</string>
+    <string name="error_empty_first_name">Please enter your First Name</string>
+    <string name="error_empty_last_name">Please enter your Last Name</string>
+    <string name="error_empty_password">Please enter your Password</string>
+    <string name="error_authentication">User not found</string>
+
+</resources>

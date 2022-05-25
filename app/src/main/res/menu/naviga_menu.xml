@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_current"
+        android:title="Current Projects"
+        />
+
+    <item android:id="@+id/nav_complete"
+        android:title="Completed Projects"
+        />
+
+    <item android:id="@+id/nav_gud_esc"
+        android:title="Good's Escrow"
+        />
+
+    <item android:id="@+id/nav_logout"
+        android:title="Logout"
+        />
+
+</menu>
